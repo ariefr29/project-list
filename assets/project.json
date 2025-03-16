@@ -1,6 +1,23 @@
 [
   {
-      "id": 99,
+      "id": 11,
+      "title": "Sembakas App ",
+      "category": "Web App",
+      "year": "2025",
+      "image": "/assets/project/sembakas.webp",
+      "link": "https://sembako-keeper.vercel.app/",
+      "github": null,
+      "tech": ["React", "Vite", "Tailwind CSS"],
+      "description": "Sembakas, an abbreviation of Sembako Kas, is an application for recording and disbursing shop cash.",
+      "features": [
+        "Report & Filter cash flow",
+        "income and expenditure categories",
+        "settings to add a category or expense type",
+        "Darkmode"
+    ]
+  },
+  {
+      "id": 10,
       "title": "Shocasing Portfolio",
       "category": "Website",
       "year": "2025",
@@ -17,7 +34,7 @@
     ]
   },
   {
-      "id": 6,
+      "id": 9,
       "title": "WBA Steam",
       "category": "Website",
       "year": "Maret 2025",
@@ -35,7 +52,7 @@
     ]
   },
   {
-      "id": 5,
+      "id": 8,
       "title": "HoudiniPorto Theme",
       "category": "Design",
       "year": "2025",
@@ -51,7 +68,7 @@
     ]
   },
   {
-      "id": 4,
+      "id": 7,
       "title": "Spacex Starlink Logistics",
       "category": "Website",
       "year": "December 2024",
@@ -62,7 +79,7 @@
       "description": "Company Profile Website Logistic"
   },
   {
-      "id": 3,
+      "id": 6,
       "title": "Rihla Rahmania Rour",
       "category": "Website",
       "year": "December 2024",
@@ -73,7 +90,7 @@
       "description": "Website Travel Haji & Umroh"
   },
   {
-      "id": 2,
+      "id": 5,
       "title": "Wuxiaindo",
       "category": "Website",
       "year": "2022",
@@ -84,7 +101,7 @@
       "description": "One of the silly things that I made, only to read web novels with comfortable typography - only archives as a reminder"
   },
   {
-      "id": 1,
+      "id": 4,
       "title": "Devlogor",
       "category": "Website",
       "year": "2021",
@@ -95,7 +112,7 @@
       "description": "My Personal website"
   },
   {
-      "id": 102,
+      "id": 3,
       "title": "FoodShop Mobile UI",
       "category": "Design",
       "year": "2021",
@@ -105,7 +122,7 @@
       "description": "design an online food store using Figma and convert it to a WordPress Theme"
   },
   {
-      "id": 0,
+      "id": 2,
       "title": "Youjitsuindo",
       "category": "Website",
       "year": "2021",
@@ -116,7 +133,7 @@
       "description": "The first result I use Hugo, has become an archive, which serves as a reminder when I first started learning Hugo SSG"
   },
   {
-      "id": 101,
+      "id": 1,
       "title": "UI Mobile App Market Project",
       "category": "Design",
       "year": "2021",
