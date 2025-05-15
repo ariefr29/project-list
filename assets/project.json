@@ -1,145 +1,182 @@
 [
   {
-      "id": 11,
-      "title": "Sembakas App ",
-      "category": "Web App",
-      "year": "2025",
-      "image": "/assets/project/sembakas.webp",
-      "link": "https://sembako-keeper.vercel.app/",
-      "github": null,
-      "tech": ["React", "Vite", "Tailwind CSS"],
-      "description": "Sembakas, an abbreviation of Sembako Kas, is an application for recording and disbursing shop cash.",
-      "features": [
-        "Report & Filter cash flow",
-        "income and expenditure categories",
-        "settings to add a category or expense type",
-        "Darkmode"
+    "id": 1,
+    "title": "UI Mobile App Market Project",
+    "category": "Design",
+    "year": "2021",
+    "image": "/assets/project/mobileApp-marketProject.webp",
+    "link": null,
+    "tech": [
+      "Figma"
+    ],
+    "description": "The first result I use Hugo, has become an archive, which serves as a reminder when I first started learning Hugo SSG"
+  },
+  {
+    "id": 2,
+    "title": "Youjitsuindo",
+    "category": "Website",
+    "year": "2021",
+    "image": "https://s-ssl.wordpress.com/mshots/v1/youjitsu-51a.pages.dev?w=360",
+    "link": "https://youjitsu-51a.pages.dev/",
+    "github": null,
+    "tech": [
+      "Hugo",
+      "Bootstrap"
+    ],
+    "description": "The first result I use Hugo, has become an archive, which serves as a reminder when I first started learning Hugo SSG"
+  },
+  {
+    "id": 3,
+    "title": "FoodShop Mobile UI",
+    "category": "Design",
+    "year": "2021",
+    "image": "/assets/project/cover-foodshop.webp",
+    "github": "https://github.com/ariefr29/foodShop",
+    "tech": [
+      "Figma",
+      "WordPress"
+    ],
+    "description": "design an online food store using Figma and convert it to a WordPress Theme"
+  },
+  {
+    "id": 4,
+    "title": "Devlogor",
+    "category": "Website",
+    "year": "2021",
+    "image": "https://s0.wp.com/mshots/v1/devlogor.vercel.app?w=480",
+    "link": "https://devlogor.me/",
+    "github": null,
+    "tech": [
+      "Hugo",
+      "HTML5",
+      "CSS3"
+    ],
+    "description": "My Personal website"
+  },
+  {
+    "id": 5,
+    "title": "Wuxiaindo",
+    "category": "Website",
+    "year": "2022",
+    "image": "https://s-ssl.wordpress.com/mshots/v1/wuxianindo.netlify.app?w=360",
+    "link": "https://wuxianindo.netlify.app/",
+    "github": null,
+    "tech": [
+      "Hugo",
+      "Bootstrap"
+    ],
+    "description": "One of the silly things that I made, only to read web novels with comfortable typography - only archives as a reminder"
+  },
+  {
+    "id": 6,
+    "title": "Rihla Rahmania Rour",
+    "category": "Website",
+    "year": "December 2024",
+    "image": "/assets/project/cover-webtravel01.webp",
+    "link": "https://rihlarahmaniatour.com/",
+    "github": null,
+    "tech": [
+      "WordPress",
+      "Elementor",
+      "WooCommerce"
+    ],
+    "description": "Website Travel Haji & Umroh"
+  },
+  {
+    "id": 7,
+    "title": "Spacex Starlink Logistics",
+    "category": "Website",
+    "year": "December 2024",
+    "image": "/assets/project/cover-weblogistik.webp",
+    "link": "https://spacexstarlink-logistic89.com",
+    "github": null,
+    "tech": [
+      "WordPress",
+      "Custom Theme"
+    ],
+    "description": "Company Profile Website Logistic"
+  },
+  {
+    "id": 8,
+    "title": "HoudiniPorto Theme",
+    "category": "Design",
+    "year": "2025",
+    "image": "https://s-ssl.wordpress.com/mshots/v1/demotheme.pages.dev/houdiniporto?w=360",
+    "link": "https://demotheme.pages.dev/houdiniporto/",
+    "github": "https://github.com/ariefr29/wordpress-houdiniporto-theme",
+    "tech": [
+      "Hugo SSG",
+      "WordPress"
+    ],
+    "description": "A minimalist, responsive portfolio theme to showcase your work, ideal for creatives and professionals.",
+    "features": [
+      "Support WordPress",
+      "Support HUGO SSG",
+      "Responsive mobile-first design"
     ]
   },
   {
-      "id": 10,
-      "title": "Shocasing Portfolio",
-      "category": "Website",
-      "year": "2025",
-      "image": "/cover-light.png",
-      "link": "#",
-      "github": null,
-      "tech": ["VueJS", "Tailwind CSS", "Json"],
-      "description": "Simple website for displaying my portfolio",
-      "features": [
-        "List my portfolio project",
-        "Dinamis data with Json",
-        "Popup info project",
-        "Simple design"
+    "id": 9,
+    "title": "WBA Steam",
+    "category": "Website",
+    "year": "Maret 2025",
+    "image": "/assets/project/cover-wbasteam.webp",
+    "link": "https://wbasteam.web.id",
+    "tech": [
+      "HTML5",
+      "Tailwind CSS",
+      "VanilaJS"
+    ],
+    "description": "A website for car & motorcycle washing services that helps customers get complete information about services, price lists, and make online bookings easily.",
+    "features": [
+      "Professional Landing Page",
+      "Clear Price List ",
+      "Online Booking",
+      "Responsive & Fast Design",
+      "Google Maps Integration",
+      "SEO & Performance Optimization"
     ]
   },
   {
-      "id": 9,
-      "title": "WBA Steam",
-      "category": "Website",
-      "year": "Maret 2025",
-      "image": "/assets/project/cover-wbasteam.webp",
-      "link": "https://wbasteam.web.id",
-      "tech": ["HTML5", "Tailwind CSS", "VanilaJS"],
-      "description": "A website for car & motorcycle washing services that helps customers get complete information about services, price lists, and make online bookings easily.",
-      "features": [
-        "Professional Landing Page",
-        "Clear Price List ",
-        "Online Booking",
-        "Responsive & Fast Design",
-        "Google Maps Integration",
-        "SEO & Performance Optimization"
+    "id": 10,
+    "title": "Shocasing Portfolio",
+    "category": "Website",
+    "year": "2025",
+    "image": "/cover-light.png",
+    "link": "#",
+    "github": null,
+    "tech": [
+      "VueJS",
+      "Tailwind CSS",
+      "Json"
+    ],
+    "description": "Simple website for displaying my portfolio",
+    "features": [
+      "List my portfolio project",
+      "Dinamis data with Json",
+      "Popup info project",
+      "Simple design"
     ]
   },
   {
-      "id": 8,
-      "title": "HoudiniPorto Theme",
-      "category": "Design",
-      "year": "2025",
-      "image": "https://s-ssl.wordpress.com/mshots/v1/demotheme.pages.dev/houdiniporto?w=360",
-      "link": "https://demotheme.pages.dev/houdiniporto/",
-      "github": "https://github.com/ariefr29/wordpress-houdiniporto-theme",
-      "tech": ["Hugo SSG", "WordPress"],
-      "description": "A minimalist, responsive portfolio theme to showcase your work, ideal for creatives and professionals.",
-      "features": [
-        "Support WordPress",
-        "Support HUGO SSG",
-        "Responsive mobile-first design"
+    "id": 11,
+    "title": "Sembakas App ",
+    "category": "Web App",
+    "year": "2025",
+    "image": "/assets/project/sembakas.webp",
+    "link": "https://sembako-keeper.vercel.app/",
+    "github": null,
+    "tech": [
+      "React",
+      "Vite",
+      "Tailwind CSS"
+    ],
+    "description": "Sembakas, an abbreviation of Sembako Kas, is an application for recording and disbursing shop cash.",
+    "features": [
+      "Report & Filter cash flow",
+      "income and expenditure categories",
+      "settings to add a category or expense type",
+      "Darkmode"
     ]
-  },
-  {
-      "id": 7,
-      "title": "Spacex Starlink Logistics",
-      "category": "Website",
-      "year": "December 2024",
-      "image": "/assets/project/cover-weblogistik.webp",
-      "link": "https://spacexstarlink-logistic89.com",
-      "github": null,
-      "tech": ["WordPress", "Custom Theme"],
-      "description": "Company Profile Website Logistic"
-  },
-  {
-      "id": 6,
-      "title": "Rihla Rahmania Rour",
-      "category": "Website",
-      "year": "December 2024",
-      "image": "/assets/project/cover-webtravel01.webp",
-      "link": "https://rihlarahmaniatour.com/",
-      "github": null,
-      "tech": ["WordPress", "Elementor", "WooCommerce"],
-      "description": "Website Travel Haji & Umroh"
-  },
-  {
-      "id": 5,
-      "title": "Wuxiaindo",
-      "category": "Website",
-      "year": "2022",
-      "image": "https://s-ssl.wordpress.com/mshots/v1/wuxianindo.netlify.app?w=360",
-      "link": "https://wuxianindo.netlify.app/",
-      "github": null,
-      "tech": ["Hugo", "Bootstrap"],
-      "description": "One of the silly things that I made, only to read web novels with comfortable typography - only archives as a reminder"
-  },
-  {
-      "id": 4,
-      "title": "Devlogor",
-      "category": "Website",
-      "year": "2021",
-      "image": "https://s0.wp.com/mshots/v1/devlogor.vercel.app?w=480",
-      "link": "https://devlogor.me/",
-      "github": null,
-      "tech": ["Hugo", "HTML5", "CSS3"],
-      "description": "My Personal website"
-  },
-  {
-      "id": 3,
-      "title": "FoodShop Mobile UI",
-      "category": "Design",
-      "year": "2021",
-      "image": "/assets/project/cover-foodshop.webp",
-      "github": "https://github.com/ariefr29/foodShop",
-      "tech": ["Figma", "WordPress"],
-      "description": "design an online food store using Figma and convert it to a WordPress Theme"
-  },
-  {
-      "id": 2,
-      "title": "Youjitsuindo",
-      "category": "Website",
-      "year": "2021",
-      "image": "https://s-ssl.wordpress.com/mshots/v1/youjitsu-51a.pages.dev?w=360",
-      "link": "https://youjitsu-51a.pages.dev/",
-      "github": null,
-      "tech": ["Hugo", "Bootstrap"],
-      "description": "The first result I use Hugo, has become an archive, which serves as a reminder when I first started learning Hugo SSG"
-  },
-  {
-      "id": 1,
-      "title": "UI Mobile App Market Project",
-      "category": "Design",
-      "year": "2021",
-      "image": "/assets/project/mobileApp-marketProject.webp",
-      "link": null,
-      "tech": ["Figma"],
-      "description": "The first result I use Hugo, has become an archive, which serves as a reminder when I first started learning Hugo SSG"
   }
 ]

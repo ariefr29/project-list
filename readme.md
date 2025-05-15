@@ -79,3 +79,7 @@ categoryClasses(category) {
   }
 }
 ```
+
+## Dashboar manajemen konten
+
+jalankan `node server.js` di root folder
