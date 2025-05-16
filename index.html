@@ -278,10 +278,11 @@
       },
       computed: {
         filteredProjects() {
-          if (this.activeCategory === 'All') {
-            return this.projects
-          }
-          return this.projects.filter(project => project.category === this.activeCategory)
+          const filtered = this.activeCategory === 'All'
+            ? this.projects
+            : this.projects.filter(project => project.category === this.activeCategory);
+
+          return [...filtered].reverse(); // aman: tidak ubah array asli
         }
       },
       async mounted() {

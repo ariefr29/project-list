@@ -139,12 +139,27 @@
   },
   {
     "id": 10,
+    "title": "Personal Website",
+    "category": "Website",
+    "year": "2025",
+    "image": "https://s0.wp.com/mshots/v1/hi.devlogor.me?w=480",
+    "link": "https://hi.devlogor.me/",
+    "github": "",
+    "tech": [
+      "VueJS",
+      "Tailwind CSS"
+    ],
+    "description": "Simple Portfolio website",
+    "features": []
+  },
+  {
+    "id": 11,
     "title": "Shocasing Portfolio",
     "category": "Website",
     "year": "2025",
-    "image": "/cover-light.png",
+    "image": "/assets/project/myPorto.webp",
     "link": "#",
-    "github": null,
+    "github": "",
     "tech": [
       "VueJS",
       "Tailwind CSS",
@@ -159,7 +174,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Sembakas App ",
     "category": "Web App",
     "year": "2025",
@@ -177,6 +192,28 @@
       "income and expenditure categories",
       "settings to add a category or expense type",
       "Darkmode"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Kasflow App Tracker Money",
+    "category": "Web App",
+    "year": "2025",
+    "image": "/assets/project/kasflow.webp",
+    "link": "https://kasflow.vercel.app",
+    "github": "https://github.com/ariefr29/kasflow",
+    "tech": [
+      "PWA",
+      "Bootstrap 5"
+    ],
+    "description": "A web-based application for recording daily income and expenses. Built with a simple and intuitive interface, users can add transactions, group by category and wallet, and view real-time financial summaries.\n\nDesigned to help anyone start a more organized financial habit — no logins, no hassle.",
+    "features": [
+      "Add income & expenses",
+      "Move funds between wallets",
+      "Balance summary wallet",
+      "Hostory Transaction",
+      "Backup & import data",
+      "Offline & installable (PWA)"
     ]
   }
 ]
